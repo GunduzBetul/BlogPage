@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #a8a8a8;
+    
+}
+
+.container{
+    border: 5px solid orangered;
+    width: 1300px;
+    height: 470px;
+    margin: auto;
+}
+
+.imgBx{
+    height: 80px;
+    weight: 100px;
+    padding: 10px;
+    float: left;
+    width: 50%;
+}
+
+#header{
+    margin-top: 4em;
+    margin-right: 3em;
+    text-align: center;
+    float: right;
+    width: 50%;
+    
+}
+
+#paragraph{
+    text-align: justify;
+    margin-right: 3em;
+    float: right;
+    width: 50%;
+}
