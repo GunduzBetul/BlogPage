@@ -1,4 +1,4 @@
-# Blog_css
+# BlogPage
 You can view the project via this link
 
-https://gunduzbetul.github.io/Blog_css/
+https://gunduzbetul.github.io/BlogPage/
